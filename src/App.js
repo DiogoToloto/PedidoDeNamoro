@@ -47,7 +47,7 @@ const NaoBtn = styled.button`
   border-radius: 1rem;
   cursor: pointer;
   position: absolute;
-  top: 50%;
+  top: 65%;
 `;
 
 const Mensagem = styled.div`
